@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pets And Walkers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="identity_array">
+        <item>Pet Owner</item>
+        <item>Pet Walker</item>
+    </string-array>
+</resources>

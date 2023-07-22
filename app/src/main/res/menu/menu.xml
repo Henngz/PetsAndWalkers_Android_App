@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/petsWalkerFragment"
+        android:icon="@drawable/ic_baseline_pets_24"
+        android:title="Pets Walker" />
+    <item
+        android:id="@+id/storeFragment"
+        android:icon="@drawable/ic_baseline_store_24"
+        android:title="Pets Store" />
+    <item
+        android:id="@+id/accountFragment"
+        android:icon="@drawable/ic_baseline_manage_accounts_24"
+        android:title="My Account" />
+</menu>
