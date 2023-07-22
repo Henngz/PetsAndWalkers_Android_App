@@ -4,7 +4,9 @@ Built in Java, it leverages mapping APIs for geo-location services, data sharing
 It uses SQLite for local data persistence, with optional web service sync across devices.
 
 # UI Design
-![image](https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/09b6ad8d-8cee-42b8-861d-b52f51dba884)
+<img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/09b6ad8d-8cee-42b8-861d-b52f51dba884" width="500" height="300">
+
+
 
 •	Engaging splash screen upon app launch
 •	Balanced modern and cute style
@@ -13,8 +15,7 @@ It uses SQLite for local data persistence, with optional web service sync across
 •	User-friendly navigation and engaging visuals
 
 # Key Features – User Profiles
-
-![image](https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/062243cb-528e-43a6-88a4-6c08fcba6fe6)
+<img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/062243cb-528e-43a6-88a4-6c08fcba6fe6" width="500" height="300">
 
 
 •	Personalized profiles for pet owners, walkers, and stores
@@ -23,7 +24,8 @@ It uses SQLite for local data persistence, with optional web service sync across
 •	Pet stores provide information on products, services, and location
 
 # Key Features – Location-based Search
-![image](https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/5e372377-cfca-4b90-b2a3-07305d6692c4)
+<img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/5e372377-cfca-4b90-b2a3-07305d6692c4" width="500" height="300">
+
 
 •	Use Google Map API to find walkers and pet stores in your area
 •	Walkers search for clients within a specified radius
