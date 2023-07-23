@@ -1,6 +1,6 @@
 # PetsAndWalkers_Android_App
 The Pets Walking app is an Android solution connecting pet owners and freelancers. 
-Built in Java, it leverages mapping APIs for geo-location services, data sharing, and image handling. 
+Built-in Java, it leverages mapping APIs for geo-location services, data sharing, and image handling. 
 It uses SQLite for local data persistence, with optional web service sync across devices.
 
 # UI Design
@@ -14,14 +14,15 @@ It uses SQLite for local data persistence, with optional web service sync across
 •	Route and flag elements emphasize walking and pet footprints represent pet-focused theme
 •	User-friendly navigation and engaging visuals
 
+
 # Key Features – User Profiles
 <img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/062243cb-528e-43a6-88a4-6c08fcba6fe6" width="150" height="300">
-
 
 •	Personalized profiles for pet owners, walkers, and stores
 •	Owners list pets, preferences, and requirements
 •	Walkers showcase experience, skills, and availability
 •	Pet stores provide information on products, services, and location
+
 
 # Key Features – Location-based Search
 <img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/5e372377-cfca-4b90-b2a3-07305d6692c4" width="150" height="300">
