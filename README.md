@@ -7,11 +7,11 @@ It uses SQLite for local data persistence, with optional web service sync across
 <img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/09b6ad8d-8cee-42b8-861d-b52f51dba884" width="400" height="350">
 
 
-•	Engaging splash screen upon app launch
-•	Balanced modern and cute style
-•	Designed to appeal to pet lovers
-•	Route and flag elements emphasize walking and pet footprints represent pet-focused theme
-•	User-friendly navigation and engaging visuals
+•	Engaging splash screen upon app launch<br />
+•	Balanced modern and cute style<br />
+•	Designed to appeal to pet lovers<br />
+•	Route and flag elements emphasize walking and pet footprints represent pet-focused theme<br />
+•	User-friendly navigation and engaging visuals<br />
 
 
 # Key Features – User Profiles
