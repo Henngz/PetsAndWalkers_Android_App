@@ -7,7 +7,6 @@ It uses SQLite for local data persistence, with optional web service sync across
 <img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/09b6ad8d-8cee-42b8-861d-b52f51dba884" width="400" height="350">
 
 
-
 •	Engaging splash screen upon app launch
 •	Balanced modern and cute style
 •	Designed to appeal to pet lovers
@@ -32,10 +31,12 @@ It uses SQLite for local data persistence, with optional web service sync across
 •	Walkers search for clients within a specified radius
 •	Convenient access to local pet care professionals
 
+
 # Key Features – Nearby Pet Stores
 •	Discover pet stores in users' vicinity
 •	Access pet supplies, grooming services, and veterinary care
 •	View store details, location, and contact information
+
 
 
 
