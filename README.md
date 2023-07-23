@@ -17,25 +17,26 @@ It uses SQLite for local data persistence, with optional web service sync across
 # Key Features – User Profiles
 <img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/062243cb-528e-43a6-88a4-6c08fcba6fe6" width="150" height="300">
 
-•	Personalized profiles for pet owners, walkers, and stores
-•	Owners list pets, preferences, and requirements
-•	Walkers showcase experience, skills, and availability
-•	Pet stores provide information on products, services, and location
+•	Personalized profiles for pet owners, walkers, and stores<br />
+•	Owners list pets, preferences, and requirements<br />
+•	Walker's showcase experience, skills, and availability<br />
+•	Pet stores provide information on products, services, and location<br />
 
 
 # Key Features – Location-based Search
-<img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/5e372377-cfca-4b90-b2a3-07305d6692c4" width="150" height="300">
 
-
-•	Use Google Map API to find walkers and pet stores in your area
-•	Walkers search for clients within a specified radius
-•	Convenient access to local pet care professionals
+•	Use Google Map API to find walkers and pet stores in your area<br />
+•	Walkers search for clients within a specified radius<br />
+•	Convenient access to local pet care professionals<br />
 
 
 # Key Features – Nearby Pet Stores
-•	Discover pet stores in users' vicinity
-•	Access pet supplies, grooming services, and veterinary care
-•	View store details, location, and contact information
+<img src="https://github.com/Henngz/PetsAndWalkers_Android_App/assets/105320424/5e372377-cfca-4b90-b2a3-07305d6692c4" width="150" height="300">
+
+
+•	Discover pet stores in users' vicinity<br />
+•	Access pet supplies, grooming services, and veterinary care<br />
+•	View store details, location, and contact information<br />
 
 
 
